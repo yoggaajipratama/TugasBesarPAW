@@ -18,7 +18,7 @@
 		</nav>
 	</div>
 
-	<form action="<?php echo base_url('auth/report'); ?>" method="post">
+	<form action="<?php echo base_url('auth/report'); ?>" method="post" enctype="multipart/form-data">
 	<?php if ($this->session->flashdata('pesan2')) {?>
 			<div>
 				<br>

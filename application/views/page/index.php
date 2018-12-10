@@ -69,7 +69,7 @@
         <div class="row">
           <div class="col-md-8 col-md-offset-2 intro-text">
             <h1>We Are Care<span></span></h1>
-            <p>Satu kepedulian kita berarti banyak untuk lingkungan sekitar kita</p>
+            <p>KEPEDULIAN ANDA BERARTI BANYAK UNTUK LINGKUNGAN SEKITAR KITA</p>
             <a href="<?php echo site_url('newaccount'); ?>" class="btn btn-custom btn-lg page-scroll">Daftar Akun</a> </div>
         </div>
       </div>
@@ -112,21 +112,24 @@
 </div>
 
 <!-- Services Section -->
-<div id="price" class="text-center">
-  <div class="container">
-    <div class="section-title">
-      <h2>Price list</h2>
-      <p>Berikut harga pangan di daerah sekitar kota Bandung</p>
-    </div>
-  </div>
-</div>
-
-<!-- Services Section -->
 <div id="services" class="text-center">
   <div class="container">
     <div class="section-title">
-      <h2>Our Services</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+      <h2>Price List</h2>
+      <center>
+        <table>
+          <tr>
+            <th>NAMA PRODUK</th>
+            &nbsp;&nbsp;<br>
+            <th>HARGA</th>
+            <th>REPORT</th>
+          </tr>
+          <tr>
+            <td>BERAS</td>
+            <td>13000</td>
+          </tr>
+        </table>
+      </center>
     </div>    
   </div>
 </div>
