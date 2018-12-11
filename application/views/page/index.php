@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Market Price Report</title>
+<link rel="icon" type="image" href=" <?= base_url(); ?>assets/img/about.jpg">
 <meta name="description" content="">
 <meta name="author" content="">
 
@@ -52,7 +53,7 @@
         <li><a href="#about" class="page-scroll">About</a></li>
         <li><a href="#price" class="page-scroll">Price list</a></li>
         <li><a href="<?php echo site_url('report')?>" class="page-scroll">Report</a></li>
-        <li><a href="#portfolio" class="page-scroll">Categories</a></li>
+        <li><a href="#portfolio" class="page-scroll">Gallery</a></li>
         <li><a href="#team" class="page-scroll">Team</a></li>
         <li><a href="#contact" class="page-scroll">Contact</a></li>
       </ul>
@@ -139,89 +140,89 @@
   <div class="container">
     <div class="section-title">
       <h2>Gallery</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+      <p></p>
     </div>
     <div class="row">
       <div class="portfolio-items">
         <div class="col-sm-6 col-md-4 col-lg-4">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/01-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/1.jpg" title="Gallery" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Lorem Ipsum</h4>
+                <h4>Padi</h4>
               </div>
-              <img src="<?php echo base_url('');?>assets/img/portfolio/01-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url('');?>assets/img/portfolio/1.1.jpg" class="img-responsive" alt="Gallery"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/02-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/2.jpg" title="Gallery" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Adipiscing Elit</h4>
+                <h4>Beras</h4>
               </div>
-              <img src="<?php echo base_url('');?>assets/img/portfolio/02-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url('');?>assets/img/portfolio/2.2.jpg" class="img-responsive" alt="Gallery"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/03-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/3.jpeg" title="Gallery" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Lorem Ipsum</h4>
+                <h4>Sayuran</h4>
               </div>
-              <img src="<?php echo base_url('');?>assets/img/portfolio/03-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url('');?>assets/img/portfolio/3.3.jpeg" class="img-responsive" alt="Gallery"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/04-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/4.jpg" title="Gallery" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Lorem Ipsum</h4>
+                <h4>Kentang</h4>
               </div>
-              <img src="<?php echo base_url('');?>assets/img/portfolio/04-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url('');?>assets/img/portfolio/4.4.jpg" class="img-responsive" alt="Gallery"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/05-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/5.jpg" title="Gallery" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Adipiscing Elit</h4>
+                <h4>Bawang</h4>
               </div>
-              <img src="<?php echo base_url('');?>assets/img/portfolio/05-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url('');?>assets/img/portfolio/5.5.jpg" class="img-responsive" alt="Gallery"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/06-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/6.jpg" title="Gallery" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Dolor Sit</h4>
+                <h4>Buah-buahan</h4>
               </div>
-              <img src="<?php echo base_url('');?>assets/img/portfolio/06-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url('');?>assets/img/portfolio/6.6.jpg" class="img-responsive" alt="Gallery"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/07-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/7.jpg" title="Gallery" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Dolor Sit</h4>
+                <h4>Bawang putih</h4>
               </div>
-              <img src="<?php echo base_url('');?>assets/img/portfolio/07-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url('');?>assets/img/portfolio/7.7.jpg" class="img-responsive" alt="Gallery"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/08-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/8.jpg" title="Gallery" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Lorem Ipsum</h4>
+                <h4>Garam</h4>
               </div>
-              <img src="<?php echo base_url('');?>assets/img/portfolio/08-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url('');?>assets/img/portfolio/8.8.jpg" class="img-responsive" alt="Gallery"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 col-lg-4">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/09-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
+            <div class="hover-bg"> <a href="<?php echo base_url('');?>assets/img/portfolio/9.jpg" title="Gallery" data-lightbox-gallery="gallery1">
               <div class="hover-text">
-                <h4>Adipiscing Elit</h4>
+                <h4>Semangka</h4>
               </div>
-              <img src="<?php echo base_url('');?>assets/img/portfolio/09-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url('');?>assets/img/portfolio/9.9.jpg" class="img-responsive" alt="Gallery"> </a> </div>
           </div>
         </div>
       </div>

@@ -10,9 +10,9 @@
 <div class="navbar2">
 	<nav>
 		<ul class="nav2">
-			<a href="<?php echo site_url('index') ?>">Home</a> &nbsp;&nbsp;
-			<a href="">Contact</a> &nbsp;&nbsp;
-			<a href="">About</a>
+			<a href="<?php echo site_url('index') ?>" class="a1">Home</a> &nbsp;&nbsp;
+			<a href="" class="a1">Contact</a> &nbsp;&nbsp;
+			<a href="" class="a1">About</a>
 		</ul>
 	</nav>
 </div>

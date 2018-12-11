@@ -13,7 +13,7 @@
 	<div class="navbar2">
 		<nav>
 			<ul class="nav2">
-				<a href="<?= base_url('auth/logout'); ?>">Logout</a> &nbsp;&nbsp;
+				<a href="<?= base_url('auth/logout'); ?>" class="a1">Logout</a> &nbsp;&nbsp;
 			</ul>
 		</nav>
 	</div>
